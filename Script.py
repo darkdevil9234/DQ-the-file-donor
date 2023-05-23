@@ -216,10 +216,10 @@ Nᴀᴍᴇ - {}"""
   💫 Official Channel 💫 :  <a href="https://t.me/cinemaa_boxoffice">Tᴏᴜᴄʜ</a>
 ╰─────── • ◆ • ───────╯
 
-=========== • ✠ • ===========
+=========== • ✠ • ==========
 ▫️ ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/moviesworld738">Click Here</a> 
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href="https://t.me/cinemaa_4_u">Click Here</a>
-=========== • ✠ • ===========</b>"""
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href="https://t.me/All_movies_hub_4_u">Click Here</a>
+=========== • ✠ • ==========</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
